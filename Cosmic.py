@@ -6,5 +6,5 @@ root.title("new")
 data = Label (text = "Dear Aashish shaw")
 data.pack()
 
-
+#welcome
 root.mainloop()
